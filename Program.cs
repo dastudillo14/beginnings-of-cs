@@ -6,6 +6,7 @@ partial class Program
     {
         /*Este es un comentario*/
         //Este tmbn es un comentario
+        #region Section1
         //DataTypes();
         //NumericTypes();
         //StringTypes();
@@ -21,6 +22,22 @@ partial class Program
         //InventoryManager();
         //ListDictionary();
         //DataStructures();
-        Generic();
+        #endregion
+        #region Section2
+        //Generic();
+        //Conditionals();
+        //Loops();
+        //FizzBuzzHomework();
+        //LoopControl();
+        //LoopGame();
+        //Converstion();
+        //ConverstionToDateTime();
+        //Functions();
+        //PrintMultiplicationTable(2,4);
+        //PrintMultiplicationTable(number: 4, tableLimit: 2);//Argumentos nombrados
+        //PrintFactorialNumber(5);
+        //Tuples();
+        AnonymousLambda();
+        #endregion;
     }
 }

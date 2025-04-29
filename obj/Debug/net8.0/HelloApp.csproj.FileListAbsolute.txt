@@ -12,3 +12,4 @@ C:\Users\DANTE\Documents\ACADEMIC\C#\HelloApp\obj\Debug\net8.0\refint\HelloApp.d
 C:\Users\DANTE\Documents\ACADEMIC\C#\HelloApp\obj\Debug\net8.0\HelloApp.pdb
 C:\Users\DANTE\Documents\ACADEMIC\C#\HelloApp\obj\Debug\net8.0\HelloApp.genruntimeconfig.cache
 C:\Users\DANTE\Documents\ACADEMIC\C#\HelloApp\obj\Debug\net8.0\ref\HelloApp.dll
+C:\Users\DANTE\Documents\ACADEMIC\C#\HelloApp\obj\Debug\net8.0\HelloApp.sourcelink.json
