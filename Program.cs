@@ -37,7 +37,20 @@ partial class Program
         //PrintMultiplicationTable(number: 4, tableLimit: 2);//Argumentos nombrados
         //PrintFactorialNumber(5);
         //Tuples();
-        AnonymousLambda();
+        //AnonymousLambda();
         #endregion;
+        #region Secion3
+        //TestingClass();
+        //Properties();
+        //Methods();
+        //Forzar recolección de basura
+        //GC.Collect();
+        //Ejecutar finalizadores
+        //GC.WaitForPendingFinalizers();
+        //ProductSalesDemo();
+        //Inherintance();
+        //AbstractClassExamples();
+        Visibility();
+        #endregion
     }
 }
