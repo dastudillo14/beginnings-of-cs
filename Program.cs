@@ -50,7 +50,11 @@ partial class Program
         //ProductSalesDemo();
         //Inherintance();
         //AbstractClassExamples();
-        Visibility();
+        //Visibility();
+        #region  Seccion 4
+        //HandleException();
+        Collections();
+        #endregion
         #endregion
     }
 }
