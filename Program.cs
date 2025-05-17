@@ -53,7 +53,9 @@ partial class Program
         //Visibility();
         #region  Seccion 4
         //HandleException();
-        Collections();
+        //Collections();
+        //Linq();
+        AdvancedLinq.Program.AdvancedLINQ();
         #endregion
         #endregion
     }
